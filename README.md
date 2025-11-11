@@ -79,9 +79,9 @@ SmartLearner is a web-based classroom management system for teachers and student
 
 ## Contributors
 
+- [@Nayma-Amin](https://github.com/Nayma-Amin)
 - [@pritilatadea](https://github.com/pritilatadea)
 - [@tafsiruzzaman](https://github.com/tafsiruzzaman)
-- [@Nayma-Amin](https://github.com/Nayma-Amin)
 
 ---
 
@@ -97,4 +97,4 @@ SmartLearner is a web-based classroom management system for teachers and student
 
 ## License
 
-MIT License. © [@pritilatadea](https://github.com/pritilatadea), [@tafsiruzzaman](https://github.com/tafsiruzzaman), [@Nayma-Amin](https://github.com/Nayma-Amin)
+MIT License. © [@Nayma-Amin](https://github.com/Nayma-Amin), [@pritilatadea](https://github.com/pritilatadea), [@tafsiruzzaman](https://github.com/tafsiruzzaman)

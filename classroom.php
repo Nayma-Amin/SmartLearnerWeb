@@ -10,8 +10,6 @@ if (!isset($_SESSION['user_id'])) {
 $user_id = $_SESSION['user_id'];
 $class_id = isset($_GET['id']) ? intval($_GET['id']) : 0;
 
-// Fetch classroom details + membership
-
 $stmt = $conn->prepare("SELECT c.*, u.name AS owner_name, u.profile_img AS owner_img, m.role
             FROM classrooms c
             JOIN users u ON c.created_by = u.user_id
