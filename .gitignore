@@ -1,0 +1,25 @@
+# Ignore sensitive files
+includes/db.php
+
+# Ignore uploaded images
+images/uploads/
+
+# Ignore environment files
+.env
+
+# Ignore system files
+*.log
+*.tmp
+*.bak
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
+*.swp
+
+# Ignore vendor folder if you use Composer
+/vendor/
